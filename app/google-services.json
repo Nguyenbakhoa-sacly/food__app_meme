@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "100455699961",
+    "project_id": "gold-hold-363709",
+    "storage_bucket": "gold-hold-363709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100455699961:android:cec763365ab576529dd928",
+        "android_client_info": {
+          "package_name": "com.example.baitapgiuakilythuyet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100455699961-8i9aq3mgki06ep3bmov2ql1l4hqhjl3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baitapgiuakilythuyet",
+            "certificate_hash": "d5a412b029fd5a3d706fda136a794a3f13fe34e0"
+          }
+        },
+        {
+          "client_id": "100455699961-l59c6d3tisnf98rg1taaj7dpo4dpit5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUGqh2SuNqhwhV5kmHtfML2_gB-bEr1p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100455699961-l59c6d3tisnf98rg1taaj7dpo4dpit5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

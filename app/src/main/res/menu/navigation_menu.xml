@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/usermenu"
+        android:title="Thông tin tài khoản"/>
+    <item
+        android:id="@+id/nav_favorite"
+        android:icon="@drawable/heartmenu"
+        android:title="Danh sách yêu thích"/>
+    <item
+        android:id="@+id/nav_dow"
+        android:icon="@drawable/dowloadmenu"
+        android:title="Nhạc đã tải về"/>
+    <item
+        android:id="@+id/nav_app_reviews"
+        android:icon="@drawable/starmenu"
+        android:title="Đánh giá ứng dụng"/>
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/sharemenu"
+        android:title="Chia sẽ"/>
+    <item
+        android:id="@+id/nav_out"
+        android:icon="@drawable/logout"
+        android:title="Đăng xuất"/>
+
+</menu>

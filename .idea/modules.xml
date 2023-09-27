@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/App_Food_KTCK.iml" filepath="$PROJECT_DIR$/.idea/modules/App_Food_KTCK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Food_KTCK.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Food_KTCK.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Food_KTCK.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Food_KTCK.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Food_KTCK.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Food_KTCK.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Food_KTCK.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Food_KTCK.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
